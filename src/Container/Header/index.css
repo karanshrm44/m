@@ -1,0 +1,29 @@
+#header {
+    width: 100%;
+    background-color: #2F2F2F;
+    min-height: 70px;
+    color: #fff;
+}
+
+#header .header-inner {
+    padding: 0px 60px;
+}
+
+#header .header-inner-layout {
+    display: flex;
+    align-items: center;
+    height: 70px;
+}
+
+#header .header-inner-layout a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+.image {
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    height: 500px;
+}
