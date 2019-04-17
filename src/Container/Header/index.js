@@ -8,7 +8,7 @@ class Header extends React.Component {
             <div id = "header">
                 <div className = "header-inner">
                     <div className = "header-inner-layout">
-                        <a href = "/">S & P GLOBAL</a>
+                        <a href = "/">Homo</a>
                         <div style = {{marginLeft:'auto'}}>
                             <a href = "/">Who We Are</a>
                             <a href = "/">Capabilities</a>
